@@ -20,7 +20,7 @@ The Hon'ble Mr. Justice …………………
 ## The Humble Petition of AB  
 *(full name and address)*
 
-**Sheweth:**
+**Showeth:**
 
 1. That the parties to the petition were and are domiciled in India and Christian by faith and religion.
 
