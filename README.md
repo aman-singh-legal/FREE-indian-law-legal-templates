@@ -2,17 +2,17 @@
 
 ##  About This Repository
 
-This repository is a **free, open-source collection of Indian legal templates** designed for **law students, young advocates, legal researchers, startups, and self-represented litigants**.
+This repository is a **FREE**, open-source collection of Indian legal templates** designed for law students, young advocates, legal researchers, startups, and self-represented litigants.
 
-The goal is to **demystify Indian law** by providing **well-structured, editable, and practical legal drafts** based on Indian statutes, court practice, and procedural requirements.
+The goal is to **demystify Indian law** by providing well-structured, editable, and practical legal drafts based on Indian statutes, court practice, and procedural requirements.
 
->  **Law should be accessible, not intimidating.**
+>  *Law should be accessible, not intimidating.*
 
 ---
 
 ##  What You’ll Find Here
 
-This repository contains **ready-to-use templates** covering major areas of Indian law, including:
+This repository contains *ready-to-use templates* covering major areas of Indian law, including:
 
 ###  Civil Law
 - Civil Procedure Code (CPC) applications
@@ -68,7 +68,5 @@ This repository contains **ready-to-use templates** covering major areas of Indi
 - Declarations
 - Power of Attorney formats
 
----
 
-## 📂 Repository Structure (Indicative)
 
