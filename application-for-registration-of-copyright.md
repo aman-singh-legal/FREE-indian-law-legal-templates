@@ -177,6 +177,6 @@ Date:
 
 ---
 
-### STATEMENT OF FURTHER PARTICULARS – NOTE
+### STATEMENT OF FURTHER PARTICULARS – 
 
 If the work is original, answer **“Yes”** to Column 1(a) and mark all other items as **“Nil”**. If not original, furnish complete details as required.
